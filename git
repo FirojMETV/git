@@ -1,0 +1,13 @@
+For me,following worked to move untracked files:
+
+git add --all
+Next, I followed similar steps
+
+ git commit -m "First commit"
+Then,
+
+git remote add origin git@github.....
+
+Last but not the least:
+
+git push -u origin master   
